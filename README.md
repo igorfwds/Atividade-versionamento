@@ -1,0 +1,1 @@
+Olá, nessa atividade serão realizada as seguintes atividades: a atividade 1 e a atividade da aula remota.
