@@ -6,3 +6,11 @@ Nota para a atividade 1:
 () 60
 () 90
 (x) 100 
+
+
+Nota para a atividade da aula remota:
+() 50
+() 70
+() 60
+() 90
+(x) 100 
